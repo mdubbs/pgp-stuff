@@ -1,2 +1,4 @@
 # PGP/GPG Stuff
-Usefule PGP/GPG commands.
+Useful PGP/GPG commands.
+
+Don't forget to do `export GPG_TTY=$(tty)`
